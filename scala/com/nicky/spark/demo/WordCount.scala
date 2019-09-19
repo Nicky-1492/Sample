@@ -13,7 +13,7 @@ import org.apache.spark.sql.functions._
 import org.apache.spark.sql.functions.count
 import org.apache.spark.sql.hive.HiveContext
 
-object WordCount extends App {
+object WordCount extends App { 
 
   case class person(person: String, Age: Int)
 
