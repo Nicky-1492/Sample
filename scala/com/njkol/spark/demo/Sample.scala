@@ -6,7 +6,7 @@ package com.njkol.spark.demo
  * Explanation: 342 + 465 = 807.
  */
 
-object Sample extends App {
+object Sample extends App { 
   val x = Array(2, 4, 3)
   val y = Array(5, 6, 4)
   var carriage = 0
