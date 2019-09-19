@@ -1,4 +1,4 @@
-package com.njkol.spark.demo
+package com.nicky.spark.demo
 
 import org.apache.spark._
 import org.apache.spark.sql.Row

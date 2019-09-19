@@ -1,4 +1,4 @@
-package com.njkol.spark.demo
+package com.nicky.spark.demo
 
 /**
  * Input: (2 -> 4 -> 3) + (5 -> 6 -> 4)

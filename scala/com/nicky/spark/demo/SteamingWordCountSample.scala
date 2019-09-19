@@ -1,4 +1,4 @@
-package com.njkol.spark.demo
+package com.nicky.spark.demo
 
 import kafka.serializer._
 import org.apache.spark.SparkConf
